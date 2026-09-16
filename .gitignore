@@ -175,6 +175,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Guestbook runtime data (contains visitor IPs)
+guestboard.json
+
 # pytype static type analyzer
 .pytype/
 
